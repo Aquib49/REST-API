@@ -22,32 +22,32 @@ let posts= [
     {
         id:uuidv4(),
         username:"Aquib",
-        contenet:"I Love My Islam"
+        contenet:"I Love My Coding"
     },
     {
         id:uuidv4(),
         username:"Aquib",
-        contenet:"I Love My Islam"
+        contenet:"I Love My Cricket"
     },
     {
         id:uuidv4(),
         username:"Aquib",
-        contenet:"I Love My Islam"
+        contenet:"I Love My VideoGame"
     },
     {
         id:uuidv4(),
         username:"Aquib",
-        contenet:"I Love My Islam"
+        contenet:"I Love My Self"
     },
     {
         id:uuidv4(),
         username:"Aquib",
-        contenet:"I Love My Islam"
+        contenet:"I Love My Family"
     },
     {
         id:uuidv4(),
         username:"Aquib",
-        contenet:"I Love My Islam"
+        contenet:"I Love My Country"
     },
     
 ]
