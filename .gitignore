@@ -1,20 +1,2 @@
-# Logs
-*.log
-
 # Dependency directories
 node_modules/
-
-# Environment variables
-.env
-
-# Build files
-/dist/
-/build/
-
-# IDE settings
-.vscode/
-.idea/
-
-# System files
-.DS_Store
-Thumbs.db
